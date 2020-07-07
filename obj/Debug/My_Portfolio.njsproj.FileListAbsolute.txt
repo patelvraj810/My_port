@@ -1,0 +1,3 @@
+D:\Georgian college material\sem 4\Javascript\My_Portfolio\My_Portfolio\obj\Debug\My_Portfolio.njsprojAssemblyReference.cache
+D:\Georgian college material\sem 4\Javascript\My_Portfolio\My_Portfolio\obj\Debug\My_Portfolio.njsproj.CoreCompileInputs.cache
+D:\Georgian college material\sem 4\Javascript\My_Portfolio\My_Portfolio\bin\Microsoft.NodejsTools.WebRole.dll
